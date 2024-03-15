@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "3b3e502c43d5d74b",
+    "type": "split",
+    "children": [
+      {
+        "id": "723cdfaa740cf619",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a81eebf222758eb2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "83bb1ec26ddcfff2",
+    "type": "split",
+    "children": [
+      {
+        "id": "2099a4169ef0423f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9556ba6c0721f9af",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dc6fdcf6eccafd85",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ecd8051804971ba4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "41ec2ff0c1af3aee",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 241.5
+  },
+  "right": {
+    "id": "367a40eda4b63952",
+    "type": "split",
+    "children": [
+      {
+        "id": "50bf0160ebd11da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97461c5288d54ed0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1d39e1a839f817cc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e527db9dd23bb9c5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "89376899ecf54931",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a81eebf222758eb2",
+  "lastOpenFiles": [
+    "ss/Pasted image 20240229191005.png",
+    "ss/Pasted image 20240229185103.png",
+    "ss/Pasted image 20240229184414.png",
+    "ss/Pasted image 20240229184235.png",
+    "ss/Pasted image 20240229182625.png",
+    "ss/Pasted image 20240229182403.png",
+    "Pasted image 20240229181842.png",
+    "Pasted image 20240229172659.png",
+    "ss/Pasted image 20240309012415.png",
+    "ss/Pasted image 20240229184807.png",
+    "ss/Pasted image 20240229184742.png",
+    "ss",
+    "Servidor de correo en linux/Configuración de servidor de correo local en linux.md",
+    "TCM/Setting Up the Domain Controller.md",
+    "Servidor de correo en linux",
+    "eCPPTv2/Simulación de examen eCPPTv2.md",
+    "TCM",
+    "Spaces/Home",
+    "Spaces",
+    "EvilG/Evilginx.md",
+    "eCPPTv2",
+    "OWASP TOP 10/SQL Injection/SQL Injection.md",
+    "EvilG",
+    "OWASP TOP 10/SQL Injection/SQLI Oracle.md",
+    "SQL Injection/SQL Injection (Based Error)",
+    "OWASP TOP 10/SQL Injection",
+    "OWASP TOP 10",
+    "python/Librerias/threading y multiprocessing.md",
+    "Forest ( Hack The Box ).md",
+    "OSINT.md",
+    "desechable/.md",
+    "2024-01-20.md",
+    "Untitled.canvas"
+  ]
+}
