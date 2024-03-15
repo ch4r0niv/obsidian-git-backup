@@ -11,8 +11,12 @@
             "id": "a81eebf222758eb2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "TCM/Setting Up the Domain Controller.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "TCM/Setting Up the Domain Controller.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "TCM/Setting Up the Domain Controller.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "TCM/Setting Up the Domain Controller.md"
+              }
             }
           }
         ]
@@ -148,20 +156,20 @@
   },
   "active": "a81eebf222758eb2",
   "lastOpenFiles": [
-    "ss/Pasted image 20240229191005.png",
-    "ss/Pasted image 20240229185103.png",
-    "ss/Pasted image 20240229184414.png",
-    "ss/Pasted image 20240229184235.png",
-    "ss/Pasted image 20240229182625.png",
-    "ss/Pasted image 20240229182403.png",
-    "Pasted image 20240229181842.png",
-    "Pasted image 20240229172659.png",
-    "ss/Pasted image 20240309012415.png",
-    "ss/Pasted image 20240229184807.png",
-    "ss/Pasted image 20240229184742.png",
+    "ss/ad-lab-tcm-14.png",
+    "ss/ad-lab-tcm-25.png",
+    "ss/ad-lab-tcm-24.png",
+    "ss/ad-lab-tcm-23.png",
+    "ss/ad-lab-tcm-22.png",
+    "ss/ad-lab-tcm-21.png",
+    "ss/ad-lab-tcm-20.png",
+    "ss/ad-lab-tcm-19.png",
+    "ss/ad-lab-tcm-18.png",
+    "ss/ad-lab-tcm-17.png",
+    "ss/ad-lab-tcm-16.png",
+    "TCM/Setting Up the Domain Controller.md",
     "ss",
     "Servidor de correo en linux/Configuración de servidor de correo local en linux.md",
-    "TCM/Setting Up the Domain Controller.md",
     "Servidor de correo en linux",
     "eCPPTv2/Simulación de examen eCPPTv2.md",
     "TCM",

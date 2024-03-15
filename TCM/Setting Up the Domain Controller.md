@@ -10,7 +10,7 @@ Administrador:P@$$w0rd!
 
 ## PC name
 
-![[Pasted image 20240229172659.png]]
+![[ss/ad-lab-tcm-1.png]]
 
 ## Convert to a Domain Controller
 
@@ -18,68 +18,68 @@ Administrador:P@$$w0rd!
 Administrar > Agregar roles y caracteristicas 
 ```
 
-![[Pasted image 20240229181748.png]]
+![[ss/ad-lab-tcm-2.png]]
 
-![[Pasted image 20240229181842.png]]
+![[ss/ad-lab-tcm-3.png]]
 
 ```
 Instalación basada en características o en roles
 ```
 
-![[Pasted image 20240229182021.png]]
+![[ss/ad-lab-tcm-4.png]]
 
-![[Pasted image 20240229182050.png]]
+![[ss/ad-lab-tcm-5.png]]
 
-![[Pasted image 20240229182306.png]]
+![[ss/ad-lab-tcm-6.png]]
 
 ### Esto es lo que nos va a permitir tener un Domain
 
-![[Pasted image 20240229182403.png]]
+![[ss/ad-lab-tcm-7.png]]
 
-![[Pasted image 20240229182625.png]]
+![[ss/ad-lab-tcm-8.png]]
 
-![[Pasted image 20240229182654.png]]
+![[ss/ad-lab-tcm-9.png]]
 
-![[Pasted image 20240229182718.png]]
+![[ss/ad-lab-tcm-10.png]]
 
-![[Pasted image 20240229182844.png]]
+![[ss/ad-lab-tcm-11.png]]
 
-![[Pasted image 20240229182910.png]]
+![[ss/ad-lab-tcm-12.png]]
 
-![[Pasted image 20240229183703.png]]
+![[ss/ad-lab-tcm-13.png]]
 
 ### Promover este servidor a controlador de dominio
 
-![[Pasted image 20240229184024.png]]
+![[ss/ad-lab-tcm-14.png]]
 
 ```
 1. Add a new forest
 2. Agrega un nombre.local
 ```
 
-![[Pasted image 20240229184235.png]]
+![[ss/ad-lab-tcm-15.png]]
 
 ```
 Password: P@$$w0rd!
 ```
 
-![[Pasted image 20240229184414.png]]
+![[ss/ad-lab-tcm-16.png]]
 
-![[Pasted image 20240229184524.png]]
+![[ss/ad-lab-tcm-17.png]]
 
-![[Pasted image 20240229184613.png]]
+![[ss/ad-lab-tcm-18.png]]
 
-![[Pasted image 20240229184807.png]]
+![[ss/ad-lab-tcm-22.png]]
 
-![[Pasted image 20240229184742.png]]
+![[ss/ad-lab-tcm-21.png]]
 
 ## Install
 
-![[Pasted image 20240229185103.png]]
+![[ss/ad-lab-tcm-23.png]]
 
 El servidor se reiniciara automaticamente.
 
-![[Pasted image 20240229191005.png]]
+![[ss/ad-lab-tcm-24.png]]
 
 ```
 Administrador:P@$$w0rd!
