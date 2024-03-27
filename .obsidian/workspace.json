@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5
+    "width": 200
   },
   "right": {
     "id": "367a40eda4b63952",
@@ -156,6 +156,10 @@
   },
   "active": "5984423ab9672f16",
   "lastOpenFiles": [
+    "ss/Jeeves/smbmap-null.png",
+    "ss/Jeeves/smbmap.png",
+    "ss/Jeeves/smbclient.png",
+    "ss/Jeeves/cme.png",
     "ss/Jeeves/imgError.png",
     "ss/Jeeves/errorHtml.png",
     "ss/Jeeves/rabbitHole.png",
@@ -170,10 +174,6 @@
     "HTB/Windows/Jeeves",
     "HTB/Windows",
     "ss/ad-lab-tcm-14.png",
-    "ss/ad-lab-tcm-25.png",
-    "ss/ad-lab-tcm-24.png",
-    "ss/ad-lab-tcm-23.png",
-    "ss/ad-lab-tcm-22.png",
     "ss",
     "Servidor de correo en linux/Configuración de servidor de correo local en linux.md",
     "Servidor de correo en linux",

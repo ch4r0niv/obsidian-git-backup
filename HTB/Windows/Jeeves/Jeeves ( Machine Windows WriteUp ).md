@@ -14,6 +14,7 @@ Puertos encontrados:
 - 80
 - 135
 - 445
+- 50000
 
 Siguiente paso es identificar los servicios que estan correindo por detras de esos puertos, eso lo hacemos con los siguientes parametros "-sC" para lanzar una serie de scripts de reconocimiento y  "-sV" para identificar las versiones.
 
@@ -35,10 +36,43 @@ Los enlaces no redirijen a ningun sitio y la accion de el form es mostrar un err
 
 ![](ss/Jeeves/errorHtml.png)
 
-Al buscar cualquier dato en el input te muestra la siguiente imgen.
+Al buscar cualquier dato en el searchBar te muestra la siguiente imgen.
 
 ![](ss/Jeeves/imgError.png)
 
 Por lo tanto descartamos este puerto.
 
-## Puerto 135 (  )
+## Puerto 445
+
+Para ver exactamente a lo que me estoy enfrentando puedo hacer lo siguiente:
+
+```
+crackmapexec smb 10.10.10.63
+```
+
+Bueno estamos ante un windows 10 pro x64, la maquina tiene el nombre JEEVES y el smb no esta firmado.
+
+![](ss/Jeeves/cme.png)
+
+Como el el servicio SMB esta expuesto puedo probar listar los recursos compartidos a nivel de red existentes con la herramienta smbclient.
+
+```
+smbclient -L 10.10.10.63 -N
+```
+
+![](ss/Jeeves/smbclient.png)
+
+Probamos con otra herramienta alternativa, smbmap.
+
+```
+smbmap -H 10.10.10.63
+```
+
+Pero no consigo nada.
+
+![](ss/Jeeves/smbmap.png)
+
+Pruebo con NULL session y nada.
+
+![](ss/Jeeves/smbmap-null.png)
+
