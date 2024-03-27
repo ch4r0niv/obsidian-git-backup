@@ -76,3 +76,8 @@ Pruebo con NULL session y nada.
 
 ![](ss/Jeeves/smbmap-null.png)
 
+## Psexec.py
+
+```
+psexec.py 
+```
