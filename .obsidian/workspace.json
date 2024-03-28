@@ -18,28 +18,16 @@
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "c54b4cfaa2631330",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5984423ab9672f16",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           },
           {
-            "id": "77cd95312e3c4479",
+            "id": "f7816a7644e6a9ae",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.11"
+                "file": "HTB/Linux/Builder ( Machine Linux ).md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -98,8 +86,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -119,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTB/Windows/Jeeves/Jeeves ( Machine Windows WriteUp ).md",
+                "file": "HTB/Linux/Builder ( Machine Linux ).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTB/Windows/Jeeves/Jeeves ( Machine Windows WriteUp ).md",
+                "file": "HTB/Linux/Builder ( Machine Linux ).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTB/Windows/Jeeves/Jeeves ( Machine Windows WriteUp ).md"
+                "file": "HTB/Linux/Builder ( Machine Linux ).md"
               }
             }
           }
@@ -180,9 +167,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "77cd95312e3c4479",
+  "active": "f7816a7644e6a9ae",
   "lastOpenFiles": [
     "HTB/Windows/Jeeves/Jeeves ( Machine Windows WriteUp ).md",
+    "HTB/Linux/Builder ( Machine Linux ).md",
+    "HTB/Linux",
     "Psexec.md",
     "ss/Jeeves/cover.png",
     "ss/Jeeves/root.png",
@@ -208,7 +197,6 @@
     "Spaces/Home",
     "Spaces",
     "EvilG/Evilginx.md",
-    "eCPPTv2",
     "OWASP TOP 10/SQL Injection/SQL Injection.md",
     "OWASP TOP 10/SQL Injection/SQLI Oracle.md",
     "python/Librerias/threading y multiprocessing.md",
