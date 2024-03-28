@@ -32,8 +32,19 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "77cd95312e3c4479",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +98,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -107,6 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "HTB/Windows/Jeeves/Jeeves ( Machine Windows WriteUp ).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,6 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "HTB/Windows/Jeeves/Jeeves ( Machine Windows WriteUp ).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +158,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "HTB/Windows/Jeeves/Jeeves ( Machine Windows WriteUp ).md"
+              }
             }
           }
         ]
@@ -164,7 +180,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5984423ab9672f16",
+  "active": "77cd95312e3c4479",
   "lastOpenFiles": [
     "HTB/Windows/Jeeves/Jeeves ( Machine Windows WriteUp ).md",
     "Psexec.md",
