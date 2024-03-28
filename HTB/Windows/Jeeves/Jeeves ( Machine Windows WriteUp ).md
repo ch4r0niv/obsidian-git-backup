@@ -19,6 +19,9 @@ tags:
   - SMB
   - impacket-smbserver
   - nc
+  - nmap
+  - misconfiguration
+  - Jetty
 ---
 # Reconocimiento
 

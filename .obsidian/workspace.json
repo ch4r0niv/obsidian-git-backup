@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB/Windows/Jeeves/Jeeves ( Machine Windows WriteUp ).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f7816a7644e6a9ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "HTB/Linux/Builder ( Machine Linux ).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -167,22 +154,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f7816a7644e6a9ae",
+  "active": "387b9f094659b031",
   "lastOpenFiles": [
+    "ss/Builder/builder.png",
     "HTB/Windows/Jeeves/Jeeves ( Machine Windows WriteUp ).md",
     "HTB/Linux/Builder ( Machine Linux ).md",
+    "ss/Builder/root1.png",
+    "ss/Builder/root.png",
+    "ss/Builder/key3.png",
+    "ss/Builder/script2.png",
+    "ss/Builder/script1.png",
+    "ss/Builder/script.png",
+    "ss/Builder/key2.png",
+    "ss/Builder/key1.png",
+    "ss/Builder/key.png",
+    "ss/Builder/priv2.png",
+    "ss/Builder",
+    "ss/AD",
     "HTB/Linux",
     "Psexec.md",
-    "ss/Jeeves/cover.png",
-    "ss/Jeeves/root.png",
-    "ss/Jeeves/ds2.png",
-    "ss/Jeeves/ds1.png",
-    "ss/Jeeves/priv2.png",
-    "ss/Jeeves/cme2.png",
-    "ss/Jeeves/keepassxc2.png",
-    "ss/Jeeves/keepassxc1.png",
-    "ss/Jeeves/pass.png",
-    "ss/Jeeves/keepasshash.png",
     "![[Pasted.md",
     "ss/Jeeves",
     "ss/Nueva carpeta",
@@ -194,8 +184,6 @@
     "Servidor de correo en linux",
     "eCPPTv2/Simulación de examen eCPPTv2.md",
     "TCM",
-    "Spaces/Home",
-    "Spaces",
     "EvilG/Evilginx.md",
     "OWASP TOP 10/SQL Injection/SQL Injection.md",
     "OWASP TOP 10/SQL Injection/SQLI Oracle.md",
