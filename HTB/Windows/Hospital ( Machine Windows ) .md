@@ -138,7 +138,12 @@ Pero ninguna funciona.
 Checo la version del kernel y el vulnerable a varios CVE's.
 
 ![](ss/Hospital/kernel_vulnerable.png)
-## CVE-2023-2640-CVE-2023-32629
+## Privesc 1 with most recent CVE-2024-1086
+
+![](ss/Hospital/cve-24.png)
+
+
+## Privesc 2 CVE-2023-2640-CVE-2023-32629
 
 GameOver(lay) Ubuntu Privilege Escalation.
 
@@ -149,5 +154,13 @@ GameOver(lay) Ubuntu Privilege Escalation.
 Procedemos a intentar romper los hashes del shadow.
 
 ![](ss/Hospital/hashid2.png)
+![](ss/Hospital/hash_cracked2.png)
+## Privesc 3 CVE-35001
 
+nftables oob read/write exploit (CVE-2023-35001)
+
+![](ss/Hospital/cve-2023-35001.png)
+![](ss/Hospital/cve-2023-2.png)
+
+## Roundcube
 
