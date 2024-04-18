@@ -161,6 +161,14 @@ nftables oob read/write exploit (CVE-2023-35001)
 
 ![](ss/Hospital/cve-2023-35001.png)
 ![](ss/Hospital/cve-2023-2.png)
-
 ## Roundcube
+
+Accedi como 'drwilliams'.
+Tiene un correo pendiente por responder de el 'drbrown', al parecer esta esperando que el drwilliams le envie por correo un diseño en el formato de ".eps" y va a visualizarlo con GhostScript.
+
+![](ss/Hospital/mail.png)
+
+Al investigar un poco acerca de GhostScript, encontre un cve que injecta comandos.
+
+![](ss/Hospital/cve-ghost.png)
 
