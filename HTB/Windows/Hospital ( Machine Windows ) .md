@@ -126,4 +126,28 @@ Tipo de hash con hashid.
 hashcat -a 0 -m 3200 hashes.8080 /usr/share/wordlists/rockyou.txt
 ```
 
+Credenciales:
+```
+admin:123456
+patient:patient
+```
+
+![](ss/Hospital/hash_cracked.png)
+
+Pero ninguna funciona.
+Checo la version del kernel y el vulnerable a varios CVE's.
+
+![](ss/Hospital/kernel_vulnerable.png)
+## CVE-2023-2640-CVE-2023-32629
+
+GameOver(lay) Ubuntu Privilege Escalation.
+
+![](ss/Hospital/cve-2023.png)
+![](ss/Hospital/root-linux.png)
+![](ss/Hospital/shadow.png)
+
+Procedemos a intentar romper los hashes del shadow.
+
+![](ss/Hospital/hashid2.png)
+
 
