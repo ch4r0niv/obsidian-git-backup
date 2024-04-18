@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "37ae35bab6c24d0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HTB/Windows/Jeeves ( Machine Windows WriteUp ).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "67a1f8766838b961",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247.5
+    "width": 247.5,
+    "collapsed": true
   },
   "right": {
     "id": "367a40eda4b63952",
@@ -169,20 +157,19 @@
   },
   "active": "67a1f8766838b961",
   "lastOpenFiles": [
+    "HTB/Windows/Jeeves ( Machine Windows WriteUp ).md",
+    "HTB/Windows/Hospital ( Machine Windows ) .md",
     "ss/Hospital/nt_autho.png",
-    "ss/Hospital/cmd_request_burpsuite.png",
-    "ss/Hospital/whoami_web.png",
     "ss/Hospital/cmd_request_3.png",
+    "ss/Hospital/whoami_web.png",
+    "ss/Hospital/cmd_request_burpsuite.png",
     "ss/Hospital/cmd_request_2.png",
     "ss/Hospital/cmd_request_1.png",
-    "ss/Hospital/xampp_1.png",
-    "ss/Hospital/pass_drbrown.png",
     "ss/Hospital/connected.png",
-    "ss/Hospital/paso_4.png",
-    "ss/Hospital/paso_3.png",
-    "HTB/Windows/Jeeves ( Machine Windows WriteUp ).md",
+    "ss/Hospital/popen_example.png",
+    "ss/Hospital/rev_shell_bash.png",
+    "ss/Hospital/root-linux.png",
     "HTB/Windows/Scrambled ( Machine HTB Windows ).md",
-    "HTB/Windows/Hospital ( Machine Windows ) .md",
     "ss/Hospital",
     "MERN Projects/Server con Node y Express.md",
     "MERN Projects",
