@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MERN Projects/Server con Node y Express.md",
+                "file": "HTB/Windows/Jeeves ( Machine Windows WriteUp ).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "67a1f8766838b961",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hospital ( Machine Windows ) .md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,8 +86,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MERN Projects/Server con Node y Express.md",
+                "file": "Hospital ( Machine Windows ) .md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MERN Projects/Server con Node y Express.md",
+                "file": "Hospital ( Machine Windows ) .md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MERN Projects/Server con Node y Express.md"
+                "file": "Hospital ( Machine Windows ) .md"
               }
             }
           }
@@ -155,12 +167,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "37ae35bab6c24d0c",
+  "active": "67a1f8766838b961",
   "lastOpenFiles": [
+    "ss/Hospital/nmap2.png",
+    "ss/Hospital/nmap.png",
+    "ss/Hospital",
+    "HTB/Windows/Jeeves ( Machine Windows WriteUp ).md",
+    "Hospital ( Machine Windows ) .md",
+    "HTB/Windows/Scrambled ( Machine HTB Windows ).md",
     "MERN Projects/Server con Node y Express.md",
     "MERN Projects",
-    "HTB/Windows/Jeeves/Jeeves ( Machine Windows WriteUp ).md",
-    "HTB/Windows/Scrambled ( Machine HTB Windows ).md",
     "HTB/Linux/Drive ( Machine Linux HTB ).md",
     "TCM/Setting Up the Domain Controller.md",
     "HTB/Linux/Drive ( Machine Linux HTB ) 1.md",
@@ -173,7 +189,6 @@
     "ss/Drive/wfuzz.png",
     "ss/Drive/home-section-3.png",
     "ss/Drive/upload-section-2.png",
-    "ss/Drive/IDOR-4.png",
     "OWASP TOP 10/SQL Injection/SQL Injection.md",
     "ss/Nueva carpeta",
     "ss/Drive",
@@ -186,7 +201,6 @@
     "ss/Jeeves",
     "HTB/Windows/Jeeves",
     "HTB/Windows",
-    "ss",
     "Servidor de correo en linux/Configuración de servidor de correo local en linux.md",
     "eCPPTv2/Simulación de examen eCPPTv2.md",
     "EvilG/Evilginx.md",
