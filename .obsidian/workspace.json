@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hospital ( Machine Windows ) .md",
+                "file": "HTB/Windows/Hospital ( Machine Windows ) .md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 247.5
   },
   "right": {
     "id": "367a40eda4b63952",
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hospital ( Machine Windows ) .md",
+                "file": "HTB/Windows/Hospital ( Machine Windows ) .md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hospital ( Machine Windows ) .md",
+                "file": "HTB/Windows/Hospital ( Machine Windows ) .md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hospital ( Machine Windows ) .md"
+                "file": "HTB/Windows/Hospital ( Machine Windows ) .md"
               }
             }
           }
@@ -169,26 +169,26 @@
   },
   "active": "67a1f8766838b961",
   "lastOpenFiles": [
-    "ss/Hospital/nmap2.png",
-    "ss/Hospital/nmap.png",
-    "ss/Hospital",
+    "ss/Hospital/kernel_vulnerable.png",
+    "ss/Hospital/hashid.png",
+    "ss/Hospital/users_table.png",
+    "ss/Hospital/mysql.png",
+    "ss/Hospital/pass_db.png",
+    "ss/Hospital/nc_1.png",
+    "ss/Hospital/rev_shell_bash.png",
+    "ss/Hospital/RCE_8080.png",
+    "ss/Hospital/popen_1.png",
+    "ss/Hospital/popen_example.png",
+    "ss/Hospital/danger_functions.png",
     "HTB/Windows/Jeeves ( Machine Windows WriteUp ).md",
-    "Hospital ( Machine Windows ) .md",
     "HTB/Windows/Scrambled ( Machine HTB Windows ).md",
+    "HTB/Windows/Hospital ( Machine Windows ) .md",
+    "ss/Hospital",
     "MERN Projects/Server con Node y Express.md",
     "MERN Projects",
     "HTB/Linux/Drive ( Machine Linux HTB ).md",
     "TCM/Setting Up the Domain Controller.md",
     "HTB/Linux/Drive ( Machine Linux HTB ) 1.md",
-    "ss/Drive/data-login.png",
-    "ss/Drive/middelwaretoken.png",
-    "ss/Drive/burpsuite-intruder.png",
-    "ss/Drive/block-404-notfound.png",
-    "ss/Drive/block-98.png",
-    "ss/Drive/block-99.png",
-    "ss/Drive/wfuzz.png",
-    "ss/Drive/home-section-3.png",
-    "ss/Drive/upload-section-2.png",
     "OWASP TOP 10/SQL Injection/SQL Injection.md",
     "ss/Nueva carpeta",
     "ss/Drive",
