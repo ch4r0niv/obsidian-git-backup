@@ -106,7 +106,7 @@ Pruebo con NULL session y nada.
 ![](ss/Jeeves/smbmap-null.png)
 ## Puerto 50000 ( HTTP )
 
-En el puerto 50000 tiene montado una web, pero asi de primera nos da un 404 Not Found.
+Al acceder al puerto 50000, encontramos un servidor web que devuelve un código de estado 404 Not Found.
 
 ![](ss/Jeeves/web_5.png)
 
