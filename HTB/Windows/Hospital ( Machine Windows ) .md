@@ -8,6 +8,7 @@ tags:
   - misconfiguration
   - nc
   - nmap
+banner: ss/Hospital/pwned.png
 ---
 # Reconocimiento
 

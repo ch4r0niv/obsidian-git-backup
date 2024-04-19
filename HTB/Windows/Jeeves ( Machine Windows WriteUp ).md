@@ -27,7 +27,7 @@ tags:
 
 ## [[Nmap]]
 
-Comenzamos con el escaneo de puertos con la herramienta Nmap.
+Comenzamos el proceso realizando un escaneo de puertos con la herramienta Nmap para identificar los servicios en ejecución en la máquina objetivo.
 
 ```
 nmap -p- --open -sS --min-rate 5000 -vvv -n -Pn 10.10.10.63 -oG allPorts
@@ -41,7 +41,7 @@ Puertos encontrados:
 - 445
 - 50000
 
-Siguiente paso es identificar los servicios que estan correindo por detras de esos puertos, eso lo hacemos con los siguientes parametros "-sC" para lanzar una serie de scripts de reconocimiento y  "-sV" para identificar las versiones.
+Siguiente paso es identificar los servicios que estan correindo por detras de esos puertos, eso lo hacemos con los siguientes parametros "-sC" para lanzar una serie de scripts basicos de reconocimiento y  "-sV" para identificar las versiones.
 
 Esos dos parametros los podemos simplificar de la siguiente manera ( -sCV ):
 
@@ -53,7 +53,7 @@ nmap -p80,135,445 -sCV 10.10.10.63 -oN targeted
 
 ## Puerto 80 ( HTTP )
 
-Esta pagina parece ser un RabbitHole, osea no nos llevara a ningun lado.
+Al acceder al puerto 80, encontramos una página que parece ser un RabbitHole, osea no nos llevara a ningun lado.
 
 ![](ss/Jeeves/rabbitHole.png)
 
@@ -70,14 +70,13 @@ Por lo tanto descartamos este puerto.
 ## Puerto 445 ( SMB ) 
 
 Para ver exactamente a lo que me estoy enfrentando puedo hacer lo siguiente:
-
 ### [[crackmapexec]]
 
 ```
 crackmapexec smb 10.10.10.63
 ```
 
-Bueno estamos ante un windows 10 pro x64, la maquina tiene el nombre JEEVES y el smb no esta firmado.
+Al explorar el servicio SMB en el puerto 445, descubrimos que la máquina está ejecutando Windows 10 Pro x64 con el nombre "JEEVES" y el SMB no está firmado.
 
 ![](ss/Jeeves/cme.png)
 
