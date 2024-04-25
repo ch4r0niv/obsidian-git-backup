@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:JuicyPotato",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -154,7 +155,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "67a1f8766838b961",
+  "active": "dc6fdcf6eccafd85",
   "lastOpenFiles": [
     "HTB/Windows/Hospital ( Machine Windows ) .md",
     "ss/Hospital/pwned.png",
