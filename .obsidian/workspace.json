@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "14e43f4186c1f8e2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -155,7 +166,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ac86955f1eca5739",
+  "active": "14e43f4186c1f8e2",
   "lastOpenFiles": [
     "Malware Development/Processes & Memory.md",
     "HTB/Windows/Jeeves ( Machine Windows WriteUp ).md",
