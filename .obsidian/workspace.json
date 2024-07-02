@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b03eec822a22955a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -155,7 +166,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ea8f3763680b9b4",
+  "active": "b03eec822a22955a",
   "lastOpenFiles": [
     "board.md",
     "Spaces/Home/.md",
