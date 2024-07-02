@@ -28,9 +28,21 @@
                 "currentVersion": "1.6.5"
               }
             }
+          },
+          {
+            "id": "a830e220b7651c29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "To do list.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -84,8 +96,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -105,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "board.md",
+                "file": "To do list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "board.md",
+                "file": "To do list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "board.md"
+                "file": "To do list.md"
               }
             }
           }
@@ -166,8 +177,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b03eec822a22955a",
+  "active": "a830e220b7651c29",
   "lastOpenFiles": [
+    "To do list.md",
+    "To do List",
     "board.md",
     "Spaces/Home/.md",
     "TCM/Setting Up the Domain Controller.md",
@@ -201,7 +214,6 @@
     "Psexec.md",
     "![[Pasted.md",
     "ss/Jeeves",
-    "HTB/Windows/Jeeves",
     "Servidor de correo en linux/Configuración de servidor de correo local en linux.md",
     "eCPPTv2/Simulación de examen eCPPTv2.md",
     "EvilG/Evilginx.md",
