@@ -9,4 +9,4 @@ sticker: emoji//2705
 - [x] Proyecto P2 IoT
 - [x] Rev Parcial de Ingles
 - [ ] Rev Parcial de Estructura de Datos
-- [ ] 5 Casos de prueba - Dispositivos móviles
+- [x] 5 Casos de prueba - Dispositivos móviles
