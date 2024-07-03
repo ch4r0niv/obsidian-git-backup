@@ -7,6 +7,6 @@ sticker: emoji//2705
 - [ ] HackTheBox: Maquina BountyHunter
 - [ ] HackTheBox: Maquina Activa: Editorial
 - [x] Proyecto P2 IoT
-- [ ] Rev Parcial de Ingles
+- [x] Rev Parcial de Ingles
 - [ ] Rev Parcial de Estructura de Datos
-- [ ] 5 
+- [ ] 5 Casos de prueba - Dispositivos móviles
