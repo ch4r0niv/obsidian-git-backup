@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -155,7 +154,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a830e220b7651c29",
+  "active": "9556ba6c0721f9af",
   "lastOpenFiles": [
     "To do list.md",
     "To do List",
