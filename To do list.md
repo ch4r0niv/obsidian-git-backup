@@ -9,4 +9,4 @@ sticker: emoji//2705
 - [ ] A1 - Informe de Error Web
 - [ ] A2 - Informe de Error Movil
 - [ ] A3 - Video
-- [ ] A1 - Ruleta rusa - IoT
+- [x] A1 - Ruleta rusa - IoT
