@@ -10,4 +10,6 @@ sticker: emoji//2705
 - [ ] A2 - Informe de Error Movil
 - [ ] A3 - Video
 - [x] A1 - Ruleta rusa - IoT
-- [ ] A2 - IoT 
+- [ ] A2 - IoT v1
+- [ ] A2 - IoT v2
+- [ ] A2 - IoT v3
