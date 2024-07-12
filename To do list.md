@@ -3,13 +3,13 @@ sticker: emoji//2705
 ---
  To do list 
 
-- [ ] 3 Informes de errores en web y moviles. ( Tarea de Evaluacion y Mejora )
+- [ ] 3 Informes de errores en web y moviles - EYM
 - [ ] HackTheBox: Maquina BountyHunter
-- [x] HackTheBox: Maquina Activa: Editorial
-- [ ] A1 - Informe de Error Web
-- [ ] A2 - Informe de Error Movil
-- [ ] A3 - Video
-- [x] A1 - Ruleta rusa - IoT
-- [ ] A2 - IoT v1
+- [ ] A1 - Informe de Error Web - EYM
+- [ ] A2 - Informe de Error Movil - EYM
+- [ ] A3 - Video - EYM
+- [ ] A4 - Prueba de Usabilidad - EYM
+- [ ] A2 - Led fotoresistencia - IoT v1
 - [ ] A2 - IoT v2
 - [ ] A2 - IoT v3
+- [ ] A1 - Exposición - Estandares y Metricas
