@@ -9,7 +9,7 @@ sticker: emoji//2705
 - [ ] A2 - Informe de Error Movil - EYM
 - [ ] A3 - Video - EYM
 - [ ] A4 - Prueba de Usabilidad - EYM
-- [ ] A2 - Led fotoresistencia - IoT v1
-- [ ] A2 - IoT v2
+- [x] A2 - Led fotoresistencia - IoT v1
+- [x] A2 - IoT v2
 - [ ] A2 - IoT v3
 - [ ] A1 - Exposición - Estandares y Metricas
