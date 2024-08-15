@@ -167,6 +167,8 @@ Hay multiples tipos de test operators. **File test operators** nos permiten inic
 
 **String Comparison Operators**
 ![![Black Hat Bash/#^Table6]]
+**Integer Comparison Operators**
+![![Black Hat Bash/#^Table7]]
 
 
 
