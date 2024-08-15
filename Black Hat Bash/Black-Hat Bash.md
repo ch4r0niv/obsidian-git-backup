@@ -150,6 +150,8 @@ echo "The variable ${name} will not be printed because it is a local variable"
 
 ### Control Operators
 ![![Black Hat Bash/#^Table3]]
+-------------------------------------------------------------------------------------------------------------
+
 
 
 
