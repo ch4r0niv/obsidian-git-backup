@@ -1,6 +1,9 @@
 ---
 sticker: emoji//1f3a9
 ---
+# Basic Bash Concepts
+
+
 ### Enviroment Variables
 
 #### Lista corta de algunas variables de entorno disponibles por defecto.
@@ -153,9 +156,17 @@ echo "The variable ${name} will not be printed because it is a local variable"
 ### Redirection Operators
 ![![Black Hat Bash/#^Table4]]-------------------------------------------------------------------------------------------------------------
 
+# Advanced Bash Concepts
 
+### Test Operators
 
+Hay multiples tipos de test operators. **File test operators** nos permiten iniciar una prueba hacia un archivo on the filesystem. podemos checar si un archivo es ejecutable o si un directorio existe.
 
+**File Test Operators**
+![![Black Hat Bash/#^Table5]]Full list: https://ss64.com/bash/test.html
+
+**String Comparison Operators**
+![![Black Hat Bash/#^Table6]]
 
 
 
