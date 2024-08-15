@@ -139,10 +139,17 @@ print_name()
 echo "The variable ${name} will not be printed because it is a local variable"
 ```
 
+--------------------------------------------------------------------------
 
+### Streams
 
+**Streams** son archivos que actuan como canal de comunicación entre un programa y su entorno.
+![![Black Hat Bash/#^Table2]]
 
+--------------------------------------------------------------------------
 
+### Control Operators
+![![Black Hat Bash/#^Table3]]
 
 
 
