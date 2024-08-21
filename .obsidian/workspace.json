@@ -164,12 +164,13 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "09635424d085716f",
+  "active": "8a3e2277257b7e9b",
   "lastOpenFiles": [
-    "Untitled",
+    "ss/Certificación BSCP/Pasted image 20240821141828.png",
+    "ss/Certificación BSCP",
+    "Certificaión BSCP/Vulnerabilidades/Cross-site scripting.md",
     "Certificaión BSCP/Herramientas",
     "Certificaión BSCP/Vulnerabilidades",
-    "Certificaión BSCP/Vulnerabilidades/Cross-site scripting.md",
     "BSCP/.md",
     "TCM/Setting Up the Domain Controller.md",
     "OWASP TOP 10/SQL Injection/SQL Injection.md",
@@ -192,7 +193,6 @@
     "Malware Development/Processes & Memory.md",
     "board.md",
     "To do list.md",
-    "To do List",
     "Spaces/Home/.md",
     "HTB/Windows/Jeeves ( Machine Windows WriteUp ).md",
     "HTB/Windows/Hospital ( Machine Windows ) .md",
@@ -204,7 +204,6 @@
     "ss/Hospital/cmd_request_2.png",
     "ss/Hospital/cmd_request_1.png",
     "ss/Hospital/connected.png",
-    "ss/Hospital/popen_example.png",
     "HTB/Windows/Scrambled ( Machine HTB Windows ).md",
     "HTB/Linux/Drive ( Machine Linux HTB ).md",
     "HTB/Linux/Drive ( Machine Linux HTB ) 1.md",
