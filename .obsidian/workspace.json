@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5
+    "width": 292.5,
+    "collapsed": true
   },
   "right": {
     "id": "367a40eda4b63952",
@@ -168,8 +169,10 @@
   "lastOpenFiles": [
     "Certificaión BSCP/Vulnerabilidades/Cross-site scripting/Cross-site scripting.md",
     "Certificaión BSCP/Vulnerabilidades/Cross-site scripting/DOM-based XSS.md",
-    "Certificaión BSCP/Vulnerabilidades/Cross-site scripting/Stored XSS.md",
     "Certificaión BSCP/Vulnerabilidades/Cross-site scripting/Reflected XSS.md",
+    "Spaces/Home",
+    "Spaces",
+    "Certificaión BSCP/Vulnerabilidades/Cross-site scripting/Stored XSS.md",
     "Certificaión BSCP/Vulnerabilidades/Cross-site scripting",
     "ss/Certificación BSCP/Pasted image 20240821141828.png",
     "ss/Certificación BSCP",
@@ -181,8 +184,6 @@
     "OWASP TOP 10/SQL Injection/sanitización.png",
     "Bug Bounty/Tools/Tools collection.md",
     "Black Hat Bash/Black-Hat Bash.md",
-    "Spaces/Home",
-    "Spaces",
     "Black Hat Bash",
     "Certificaión BSCP",
     "OWASP TOP 10/SQL Injection/SQLI Oracle.md",
@@ -211,7 +212,6 @@
     "HTB/Linux/Drive ( Machine Linux HTB ).md",
     "HTB/Linux/Drive ( Machine Linux HTB ) 1.md",
     "Psexec.md",
-    "![[Pasted.md",
     "Untitled.canvas"
   ]
 }
