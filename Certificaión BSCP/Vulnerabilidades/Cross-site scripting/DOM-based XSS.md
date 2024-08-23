@@ -40,6 +40,63 @@ Identificar y explotar XSS basado en DOM en la práctica puede ser un proceso te
 # Exploiting
 
 ## Sources y Sinks en DOM XSS
-
 #sources #sinks
-/
+#### Sources Comunes:
+- `location.search`
+- `location.hash`
+- `document.referrer`
+#### Sinks Comunes:
+- `document.write()`
+- `element.innerHTML`
+- **jQuery**:
+    - `attr()`
+    - `html()`
+    - Selector `$()`
+
+## Exploiting Specific Sinks
+
+#### Explotación en `document.write`
+
+- **Definición**: `document.write` puede ser explotado cuando se usa para insertar contenido controlado por el usuario en la página.
+- **Ejemplo**:
+
+```js
+document.write('... <script>alert(document.domain)</script> ...');
+```
+
+- **Consideraciones**: Es posible que debas cerrar etiquetas HTML existentes antes de insertar tu payload para evitar errores de sintaxis.
+
+
+## Explotación en innerHTML
+
+- **Definición**: `innerHTML` no acepta elementos `<script>` en navegadores modernos, pero se pueden usar otros elementos como `img` o `iframe`.
+- **Ejemplo**:
+
+```js
+element.innerHTML='... <img src=1 onerror=alert(document.domain)> ...'
+```
+
+- **Consideraciones**: Utiliza atributos como `onerror` o `onload` para desencadenar la ejecución de código.
+
+### Explotación en jQuery
+
+- **Definición**: Las funciones de jQuery como `attr()` o el selector `$()` pueden ser utilizadas para insertar código malicioso en el DOM.
+- **Ejemplo**:
+
+```js
+$('#backLink').attr("href", "javascript:alert(document.domain)");
+```
+
+- **Consideraciones**: Cuidado con el uso de `hashchange` y exploits mediante `iframe`.
+
+---
+
+## Prevención de DOM XSS
+
+- **Medidas Generales**:
+    - Validar y sanear toda entrada de datos antes de usarla en sinks peligrosos.
+    - Implementar `Content Security Policy (CSP)` para limitar la ejecución de scripts.
+- **Medidas Específicas**:
+    - Evitar el uso de `innerHTML`, `document.write()` y funciones de jQuery que manipulen el DOM de manera insegura.
+    - Usar métodos seguros como `textContent` o `setAttribute`.
+
