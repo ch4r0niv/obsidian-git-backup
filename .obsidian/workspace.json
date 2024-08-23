@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5,
-    "collapsed": true
+    "width": 218.5
   },
   "right": {
     "id": "367a40eda4b63952",
@@ -167,14 +166,14 @@
   },
   "active": "dcb7d04ad2b12b33",
   "lastOpenFiles": [
-    "Certificaión BSCP/Vulnerabilidades/Cross-site scripting/Reflected XSS.md",
     "Certificaión BSCP/Vulnerabilidades/Cross-site scripting/Cross-site scripting.md",
-    "Certificaión BSCP/Vulnerabilidades/Cross-site scripting/Stored XSS.md",
+    "ss/Certificación BSCP/xss.png",
     "Certificaión BSCP/Vulnerabilidades/Cross-site scripting/DOM-based XSS.md",
+    "Certificaión BSCP/Vulnerabilidades/Cross-site scripting/Reflected XSS.md",
+    "Certificaión BSCP/Vulnerabilidades/Cross-site scripting/Stored XSS.md",
     "Spaces/Home",
     "Spaces",
     "Certificaión BSCP/Vulnerabilidades/Cross-site scripting",
-    "ss/Certificación BSCP/Pasted image 20240821141828.png",
     "ss/Certificación BSCP",
     "Certificaión BSCP/Herramientas",
     "Certificaión BSCP/Vulnerabilidades",

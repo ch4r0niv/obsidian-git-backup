@@ -39,3 +39,7 @@ Identificar y explotar XSS basado en DOM en la práctica puede ser un proceso te
 --------------------------------------------------------------------------
 # Exploiting
 
+## Sources y Sinks en DOM XSS
+
+#sources #sinks
+/

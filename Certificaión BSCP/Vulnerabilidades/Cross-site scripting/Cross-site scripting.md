@@ -14,7 +14,7 @@ tags:
 
 > **El cross-site scripting (XSS) funciona manipulando un sitio web vulnerable para que devuelva JavaScript malicioso a los usuarios. Cuando el código malicioso se ejecuta dentro del navegador de la víctima, el atacante puede comprometer completamente su interacción con la aplicación.**
 
-![[Pasted image 20240821141828.png]]
+![[xss.png]]
 
 # ¿Cuáles son los tipos de ataques XSS?
 
