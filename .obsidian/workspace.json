@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proyecto - SIEM/Fase 3 - Diseño de Arquitectura del SIEM.md",
+                "file": "Proyecto - SIEM/Fase 2 - Selección de tecnologías.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,8 +110,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -131,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Proyecto - SIEM/Fase 3 - Diseño de Arquitectura del SIEM.md",
+                "file": "Proyecto - SIEM/Fase 2 - Selección de tecnologías.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Proyecto - SIEM/Fase 3 - Diseño de Arquitectura del SIEM.md",
+                "file": "Proyecto - SIEM/Fase 2 - Selección de tecnologías.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Proyecto - SIEM/Fase 3 - Diseño de Arquitectura del SIEM.md"
+                "file": "Proyecto - SIEM/Fase 2 - Selección de tecnologías.md"
               }
             }
           },
@@ -204,10 +203,10 @@
   },
   "active": "10abb808d8997a80",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Proyecto - SIEM/Fase 3 - Diseño de Arquitectura del SIEM.md",
-    "Proyecto - SIEM/Fase 2 - Selección de tecnologías.md",
     "Proyecto - SIEM/Fase 1 - Definir objetivos y requisitos.md",
+    "Proyecto - SIEM/Fase 3 - Diseño de Arquitectura del SIEM.md",
+    "Untitled.md",
+    "Proyecto - SIEM/Fase 2 - Selección de tecnologías.md",
     "Proyecto - SIEM/Alertas.md",
     "Certificaión BSCP/Vulnerabilidades/Cross-site scripting/DOM-based XSS.md",
     "Proyecto - SIEM",

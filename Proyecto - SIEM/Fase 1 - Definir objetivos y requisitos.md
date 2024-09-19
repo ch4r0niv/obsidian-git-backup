@@ -34,7 +34,7 @@ El objetivo principal de este proyecto es construir un Sistema de Gestión de In
 
 ##### ¿Cuántas fuentes de logs se van recolectar?
 
-Las fuentes de logs dependerán del tamaño del entorno que vas a monitorear. Para un SIEM básico-medio, las fuentes pueden incluir:
+Las fuentes de logs dependerán del tamaño del entorno que vas a monitorear.
 
 - **Dispositivos**:
     - 5-10 servidores (Linux, Windows).
