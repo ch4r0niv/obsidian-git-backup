@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proyecto - SIEM/Untitled.md",
+                "file": "Proyecto - SIEM/Fase 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,12 +86,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "367a40eda4b63952",
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Certificaión BSCP/Vulnerabilidades/Cross-site scripting/DOM-based XSS.md",
+                "file": "Proyecto - SIEM/Fase 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Certificaión BSCP/Vulnerabilidades/Cross-site scripting/DOM-based XSS.md",
+                "file": "Proyecto - SIEM/Fase 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Certificaión BSCP/Vulnerabilidades/Cross-site scripting/DOM-based XSS.md"
+                "file": "Proyecto - SIEM/Fase 1.md"
               }
             }
           },
@@ -181,7 +181,7 @@
   "active": "9556ba6c0721f9af",
   "lastOpenFiles": [
     "Certificaión BSCP/Vulnerabilidades/Cross-site scripting/DOM-based XSS.md",
-    "Proyecto - SIEM/Untitled.md",
+    "Proyecto - SIEM/Fase 1.md",
     "Proyecto - SIEM",
     "Certificaión BSCP/Vulnerabilidades/Cross-site scripting/Cross-site scripting.md",
     "ss/Certificación BSCP/xss.png",
