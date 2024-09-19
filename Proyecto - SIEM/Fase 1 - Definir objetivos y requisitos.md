@@ -196,3 +196,108 @@ Para aplicaciones o sistemas que no soportan Syslog o Event Forwarding.
 
 ### Almacenamiento de logs: ¿Dónde guardar los logs?
 
+### **1. Base de Datos NoSQL (MongoDB):**
+
+- **Ventajas:**
+    - **Flexibilidad de Datos:** MongoDB es ideal para almacenar logs no estructurados y semi-estructurados. Puedes adaptar el esquema a medida que cambian los requisitos del sistema.
+    - **Escalabilidad Horizontal:** Permite escalar fácilmente agregando más nodos, lo cual es útil a medida que el volumen de logs crece.
+    - **Consultas Rápidas:** Ofrece buenas capacidades de consulta.
+
+- **Desventajas:**    
+    - **Consistencia Eventual:** Aunque MongoDB es generalmente adecuado para logs, su modelo de consistencia eventual podría no ser ideal para todas las aplicaciones, aunque para logs no suele ser un problema crítico.
+
+
+---
+
+### Alertas y correlación: ¿Qué tipo de reglas de correlación implementar inicialmente?
+
+Definir reglas básicas de correlación que detecten patrones sospechosos en los logs.
+
+### **1. Reglas de Autenticación:**
+
+Estas reglas se enfocan en detectar intentos sospechosos de acceso no autorizado y comportamientos anómalos en los patrones de inicio de sesión.
+
+- **Intentos fallidos consecutivos:**
+    
+    - **Regla:** Si un usuario realiza más de **x** intentos de autenticación fallidos en un período de **y** minutos, genera una alerta.
+    - **Motivo:** Este patrón puede indicar intentos de fuerza bruta para comprometer una cuenta.
+
+- **Inicios de sesión desde múltiples ubicaciones geográficas:**
+    
+    - **Regla:** Si un usuario intenta autenticarse desde varias ubicaciones geográficas diferentes en un corto período de tiempo (por ejemplo, en cuestión de minutos o horas), genera una alerta.
+    - **Motivo:** Podría indicar una actividad sospechosa, como un posible compromiso de credenciales y uso de las mismas desde ubicaciones remotas.
+
+- **Inicio de sesión fuera de horas laborales:**
+    
+    - **Regla:** Si un usuario accede a sistemas críticos fuera del horario laboral definido, genera una alerta.
+    - **Motivo:** Actividades fuera de horas usuales pueden señalar accesos malintencionados o negligentes.
+
+### **2. Reglas de Tráfico de Red:**
+
+Estas reglas buscan identificar patrones inusuales en el tráfico de red que podrían ser señales de ataques o intentos de reconocimiento.
+
+- **Escaneo de puertos:**
+    
+    - **Regla:** Si se detectan más de **x** conexiones fallidas a un servicio específico en un corto período de tiempo (por ejemplo, en cuestión de segundos o minutos), genera una alerta sobre un posible escaneo de puertos.
+    - **Motivo:** Los escaneos de puertos a menudo son el primer paso en la búsqueda de vulnerabilidades en un sistema.
+
+- **Posible ataque DDoS:**
+    
+    - **Regla:** Si el tráfico de red en un puerto o servicio específico excede un umbral definido (por ejemplo, un pico inusual de solicitudes en un puerto), genera una alerta de posible ataque DDoS.
+    - **Motivo:** Un aumento repentino en el tráfico puede ser un indicio de un ataque de denegación de servicio.
+
+- **Acceso a servicios no utilizados:**
+    
+    - **Regla:** Si hay intentos de conexión a servicios no activos o deshabilitados en el sistema, genera una alerta.
+    - **Motivo:** Esto podría ser indicativo de alguien intentando explotar servicios que deberían estar desactivados.
+
+### **3. Reglas de Disponibilidad del Sistema:**
+
+Estas reglas ayudan a detectar caídas o problemas de disponibilidad en los servicios y servidores monitoreados.
+
+- **Falta de logs de un servicio crítico:**
+    
+    - **Regla:** Si un servicio crítico (por ejemplo, servidor web, base de datos) deja de generar logs por más de **x** minutos, genera una alerta.
+    - **Motivo:** Esto podría ser indicativo de una caída del sistema o un fallo en el servicio.
+
+- **Falta de respuesta de un servidor:**
+    
+    - **Regla:** Si un servidor deja de responder o deja de generar logs por más de **x** minutos, alerta sobre un posible fallo de hardware o ataque.
+    - **Motivo:** Un fallo de hardware, ataque de denegación de servicio o incluso problemas de red podrían ser la causa de la falta de respuesta.
+
+- **Servicios que superan los umbrales de uso:**
+    
+    - **Regla:** Si un servicio crítico (como el uso de CPU, memoria, o tráfico de red) excede un umbral predefinido, genera una alerta.
+    - **Motivo:** Puede indicar problemas de rendimiento, sobrecarga, o posible ataque.
+
+### **4. Reglas de Modificación de Archivos:**
+
+Estas reglas se centran en detectar cambios sospechosos en archivos críticos del sistema o de configuración.
+
+- **Modificación de archivos sensibles:**
+    
+    - **Regla:** Si un archivo crítico en el sistema (por ejemplo, en **/etc/** en Linux) es modificado sin los permisos correctos o fuera de los procedimientos normales, genera una alerta.
+    - **Motivo:** Modificaciones no autorizadas pueden ser indicativas de un compromiso del sistema o de una escalación de privilegios.
+- **Cambios en archivos de configuración del sistema:**
+    
+    - **Regla:** Si se detectan cambios en archivos de configuración sensibles (por ejemplo, archivos de configuración del firewall o del servidor), genera una alerta.
+    - **Motivo:** Cambios no autorizados podrían debilitar la seguridad del sistema y exponerlo a ataques.
+- **Eliminación de archivos importantes:**
+    
+    - **Regla:** Si un archivo importante (por ejemplo, un log crítico o archivo de configuración) es eliminado sin autorización, genera una alerta.
+    - **Motivo:** Esto puede señalar una tentativa de ocultar actividad maliciosa o interrumpir el funcionamiento del sistema.
+
+### **5. Otras Reglas Iniciales:**
+
+- **Elevación de privilegios:**
+    
+    - **Regla:** Si un usuario sin autorización intenta elevar sus privilegios (por ejemplo, usando comandos como `sudo` en Linux o intentos de modificación en la configuración de roles en Windows), genera una alerta.
+    - **Motivo:** Un intento no autorizado de elevación de privilegios puede ser una señal de que alguien está tratando de ganar control adicional sobre el sistema.
+
+- **Activación de cuentas deshabilitadas:**
+    
+    - **Regla:** Si una cuenta deshabilitada o eliminada intenta ser utilizada o autenticada, genera una alerta.
+    - **Motivo:** Esto puede señalar intentos de acceso no autorizado mediante cuentas obsoletas o comprometidas.
+
+Estas reglas de correlación iniciales proporcionan un punto de partida para identificar comportamientos sospechosos, ataques en progreso, o fallos en los sistemas que estás monitoreando. Es importante recordar que las reglas de correlación deben evolucionar y adaptarse conforme entiendas mejor los patrones de comportamiento en tu entorno y las amenazas emergentes.
+
