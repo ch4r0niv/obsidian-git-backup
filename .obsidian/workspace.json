@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "34fd32893a9f094d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Proyecto - SIEM/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,12 +86,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "367a40eda4b63952",
@@ -165,11 +178,13 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "dcb7d04ad2b12b33",
+  "active": "9556ba6c0721f9af",
   "lastOpenFiles": [
+    "Certificaión BSCP/Vulnerabilidades/Cross-site scripting/DOM-based XSS.md",
+    "Proyecto - SIEM/Untitled.md",
+    "Proyecto - SIEM",
     "Certificaión BSCP/Vulnerabilidades/Cross-site scripting/Cross-site scripting.md",
     "ss/Certificación BSCP/xss.png",
-    "Certificaión BSCP/Vulnerabilidades/Cross-site scripting/DOM-based XSS.md",
     "Certificaión BSCP/Vulnerabilidades/Cross-site scripting/Reflected XSS.md",
     "Certificaión BSCP/Vulnerabilidades/Cross-site scripting/Stored XSS.md",
     "Spaces/Home",
@@ -190,7 +205,6 @@
     "ANON/Project - ANON.md",
     "MERN Projects/Server con Node y Express.md",
     "ANON",
-    "Bug Bounty/Tools",
     "HTB/Linux/Builder ( Machine Linux ).md",
     "eCPPTv2/Simulación de examen eCPPTv2.md",
     "EvilG/Evilginx.md",
