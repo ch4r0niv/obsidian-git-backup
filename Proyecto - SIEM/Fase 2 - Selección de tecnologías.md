@@ -9,14 +9,14 @@ El backend será desarrollado en **Python**, ya que es ideal para manejar los da
 
 **Bibliotecas útiles en Python:**
 
-- **Flask:** Ideal para crear una API REST que pueda recibir logs, gestionar reglas de correlación y enviar alertas.
+- **Flask:** Para crear una API REST que pueda recibir logs, gestionar reglas de correlación y enviar alertas.
 - **PyMongo:** Para interactuar con MongoDB, que será el núcleo del almacenamiento.
 - **Loguru o logging:** Para gestionar el logging dentro del sistema.
 - **Multiprocessing:** Para manejar múltiples fuentes de logs de forma paralela.
 
 #### **Agentes de Recolección de Logs:**
 
-- **Python o Go:** Si priorizas simplicidad, puedes desarrollar los agentes en **Python**; si priorizas rendimiento y escalabilidad a futuro, utiliza **Go** para que los agentes sean más eficientes.
+- **Python o Go:** desarrollar los agentes en **Python** o **Go** para que los agentes sean más eficientes.
 
 
 ---
@@ -30,20 +30,18 @@ El backend será desarrollado en **Python**, ya que es ideal para manejar los da
 
 #### **Backend (API para Web y App Móvil):**
 
-- **Flask:** Ideal para desarrollar las rutas de API que servirán tanto al frontend web como a la app móvil.
+- **Flask:** Para desarrollar las rutas de API que servirán tanto al frontend web como a la app móvil.
     - **Rutas para logs:** `/logs` para buscar logs, `/alerts` para mostrar las alertas.
 
 #### **Frontend Web:**
 
-- **Dash (inicial) o React.js (a largo plazo):**
-    - **Dash:** Si buscas una implementación rápida y sencilla con gráficos interactivos.
-    - **React.js:** Ideal si prefieres una experiencia personalizada y escalable, útil si planeas agregar funcionalidades complejas en el futuro.
+- **Dash o React.js :**
+    - **Dash:** implementación rápida y sencilla con gráficos interactivos.
+    - **React.js
 
 #### **Aplicación Móvil:**
 
-- **React Native o Flutter:** Ambas opciones te permiten desarrollar aplicaciones nativas para iOS y Android con un solo código base.
-    - **React Native:** Se integrará fácilmente si ya usas **React.js** para la web.
-    - **Flutter:** Si prefieres una experiencia de desarrollo más controlada y con un rendimiento nativo más cercano.
+- **React Native
 
 **Notificaciones Push:**
 
