@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proyecto - SIEM/Sprint 2/BackLog.md",
+                "file": "Proyecto - SIEM/Sprint 1/Fase 1 - Selección de tecnologías.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 440.5
+    "width": 440.5,
+    "collapsed": true
   },
   "right": {
     "id": "367a40eda4b63952",
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Proyecto - SIEM/Sprint 2/BackLog.md",
+                "file": "Proyecto - SIEM/Sprint 1/Fase 1 - Selección de tecnologías.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Proyecto - SIEM/Sprint 2/BackLog.md",
+                "file": "Proyecto - SIEM/Sprint 1/Fase 1 - Selección de tecnologías.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Proyecto - SIEM/Sprint 2/BackLog.md"
+                "file": "Proyecto - SIEM/Sprint 1/Fase 1 - Selección de tecnologías.md"
               }
             }
           },
@@ -179,15 +180,15 @@
   },
   "active": "24683c15994a37d8",
   "lastOpenFiles": [
-    "Proyecto - SIEM/Sprint 1/BackLog.md",
-    "Proyecto - SIEM/Sprint 2/BackLog.md",
-    "Proyecto - SIEM/Sprint 2/Fase 2 - Desarrollo del Módulo de Recolección de Logs.md",
     "Proyecto - SIEM/Sprint 1/Fase 1 - Diseño de Arquitectura del SIEM.md",
+    "Proyecto - SIEM/Sprint 1/Fase 1 - Definir objetivos y requisitos.md",
+    "Proyecto - SIEM/Sprint 2/BackLog.md",
+    "Proyecto - SIEM/Sprint 1/BackLog.md",
+    "Proyecto - SIEM/Sprint 2/Fase 2 - Desarrollo del Módulo de Recolección de Logs.md",
     "Proyecto - SIEM/Sprint 1/Fase 1 - Selección de tecnologías.md",
     "Proyecto - SIEM/Fase 5 - Parsing y Normalización de Logs.md",
     "Proyecto - SIEM/Sprint 2",
     "Proyecto - SIEM/Sprint 1/Alertas.md",
-    "Proyecto - SIEM/Sprint 1/Fase 1 - Definir objetivos y requisitos.md",
     "Proyecto - SIEM/Sprint 1",
     "AXEN.md",
     "Pasted image 20240919182624.png",

@@ -35,9 +35,7 @@ El backend será desarrollado en **Python**, ya que es ideal para manejar los da
 
 #### **Frontend Web:**
 
-- **Dash Plotly o React.js :**
-    - Dash Plotly
-    - React.js
+ React.js y tailwindcss
 
 #### **Aplicación Móvil:**
 
