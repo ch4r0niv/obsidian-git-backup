@@ -9,4 +9,13 @@
 
 ### HRM (Human Resource Managment)
 
+---
+# Cloud Computing
+- Azure
+- AWS
+- GCP
+- Oracle Cloud
+- Bluemix IBM
 
+
+---
