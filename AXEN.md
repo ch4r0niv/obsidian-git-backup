@@ -17,5 +17,9 @@
 - Oracle Cloud
 - Bluemix IBM
 
+### Tipos de Nube
+- SasS
+- PaaS
+- IaaS
 
 ---
