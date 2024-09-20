@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "34fd32893a9f094d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Proyecto - SIEM/Sprint 1/Alertas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ff2c5a57e978a54d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Proyecto - SIEM/Sprint 1/Fase 1 - Definir objetivos y requisitos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4e5666d3b5363d34",
             "type": "leaf",
             "state": {
@@ -44,67 +20,19 @@
             }
           },
           {
-            "id": "50db263dbba4e3a4",
+            "id": "24683c15994a37d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proyecto - SIEM/Sprint 1/Fase 1 - Definir objetivos y requisitos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8bf24a6a8bffacdc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Proyecto - SIEM/Sprint 1/Fase 1 - Selección de tecnologías.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "10abb808d8997a80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Proyecto - SIEM/Sprint 1/Fase 1 - Diseño de Arquitectura del SIEM.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d8160f5708dcd653",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Proyecto - SIEM/Sprint 2/Fase 2 - Desarrollo del Módulo de Recolección de Logs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8895a2f48c2495b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Proyecto - SIEM/Sprint 2/Fase 2 - Desarrollo del Módulo de Recolección de Logs.md",
+                "file": "Proyecto - SIEM/Sprint 2/BackLog.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Proyecto - SIEM/Sprint 1/BackLog.md",
+                "file": "Proyecto - SIEM/Sprint 2/BackLog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Proyecto - SIEM/Sprint 1/BackLog.md",
+                "file": "Proyecto - SIEM/Sprint 2/BackLog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Proyecto - SIEM/Sprint 1/BackLog.md"
+                "file": "Proyecto - SIEM/Sprint 2/BackLog.md"
               }
             }
           },
@@ -249,11 +177,12 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "4e5666d3b5363d34",
+  "active": "9556ba6c0721f9af",
   "lastOpenFiles": [
+    "Proyecto - SIEM/Sprint 1/BackLog.md",
+    "Proyecto - SIEM/Sprint 2/BackLog.md",
     "Proyecto - SIEM/Sprint 2/Fase 2 - Desarrollo del Módulo de Recolección de Logs.md",
     "Proyecto - SIEM/Sprint 1/Fase 1 - Diseño de Arquitectura del SIEM.md",
-    "Proyecto - SIEM/Sprint 1/BackLog.md",
     "Proyecto - SIEM/Sprint 1/Fase 1 - Selección de tecnologías.md",
     "Proyecto - SIEM/Fase 5 - Parsing y Normalización de Logs.md",
     "Proyecto - SIEM/Sprint 2",
