@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proyecto - SIEM/Alertas.md",
+                "file": "Proyecto - SIEM/Sprint 1/Alertas.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AXEN.md",
+                "file": "Proyecto - SIEM/Sprint 1/Fase 1 - Definir objetivos y requisitos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e5666d3b5363d34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Proyecto - SIEM/Sprint 1/Fase 1 - Diseño de Arquitectura del SIEM.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proyecto - SIEM/Fase 1 - Definir objetivos y requisitos.md",
+                "file": "Proyecto - SIEM/Sprint 1/Fase 1 - Definir objetivos y requisitos.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proyecto - SIEM/Fase 2 - Selección de tecnologías.md",
+                "file": "Proyecto - SIEM/Sprint 1/Fase 1 - Selección de tecnologías.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proyecto - SIEM/Fase 3 - Diseño de Arquitectura del SIEM.md",
+                "file": "Proyecto - SIEM/Sprint 1/Fase 1 - Diseño de Arquitectura del SIEM.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -166,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AXEN.md",
+                "file": "Proyecto - SIEM/Sprint 1/Fase 1 - Diseño de Arquitectura del SIEM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AXEN.md",
+                "file": "Proyecto - SIEM/Sprint 1/Fase 1 - Diseño de Arquitectura del SIEM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AXEN.md"
+                "file": "Proyecto - SIEM/Sprint 1/Fase 1 - Diseño de Arquitectura del SIEM.md"
               }
             }
           },
@@ -237,17 +249,19 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "ff2c5a57e978a54d",
+  "active": "4e5666d3b5363d34",
   "lastOpenFiles": [
-    "Pasted image 20240919182624.png",
-    "Proyecto - SIEM/Alertas.md",
+    "Proyecto - SIEM/Sprint 1/Fase 1 - Selección de tecnologías.md",
+    "Proyecto - SIEM/Sprint 1/Fase 1 - Diseño de Arquitectura del SIEM.md",
+    "Proyecto - SIEM/Sprint 1/BackLog.md",
+    "Proyecto - SIEM/Sprint 1/Alertas.md",
+    "Proyecto - SIEM/Sprint 1/Fase 1 - Definir objetivos y requisitos.md",
+    "Proyecto - SIEM/Sprint 1",
     "AXEN.md",
+    "Pasted image 20240919182624.png",
     ".md",
     "AXEN",
-    "Proyecto - SIEM/Fase 1 - Definir objetivos y requisitos.md",
-    "Proyecto - SIEM/Fase 2 - Selección de tecnologías.md",
     "Proyecto - SIEM/Fase 4 - Desarrollo del Módulo de Recolección de Logs.md",
-    "Proyecto - SIEM/Fase 3 - Diseño de Arquitectura del SIEM.md",
     "Proyecto - SIEM/Fase 5 - Parsing y Normalización de Logs.md",
     "Certificaión BSCP/Vulnerabilidades/Cross-site scripting/DOM-based XSS.md",
     "Proyecto - SIEM",
@@ -267,7 +281,6 @@
     "OWASP TOP 10/SQL Injection/sanitización.png",
     "Bug Bounty/Tools/Tools collection.md",
     "Black Hat Bash/Black-Hat Bash.md",
-    "Black Hat Bash",
     "OWASP TOP 10/SQL Injection/SQLI Oracle.md",
     "ANON/Project - ANON.md",
     "MERN Projects/Server con Node y Express.md",
@@ -276,7 +289,6 @@
     "EvilG/Evilginx.md",
     "Malware Development/Processes & Memory.md",
     "board.md",
-    "To do list.md",
     "ss/Hospital/pwned.png",
     "ss/Hospital/nt_autho.png",
     "ss/Hospital/cmd_request_3.png",
@@ -284,7 +296,6 @@
     "ss/Hospital/cmd_request_burpsuite.png",
     "ss/Hospital/cmd_request_2.png",
     "ss/Hospital/cmd_request_1.png",
-    "ss/Hospital/connected.png",
     "Untitled.canvas"
   ]
 }
