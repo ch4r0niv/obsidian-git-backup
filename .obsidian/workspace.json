@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proyecto - SIEM/Sprint 1/Fase 1 - Diseño de Arquitectura del SIEM.md",
+                "file": "Proyecto - SIEM/Sprint 2/Fase 4 - Desarrollo del Módulo de Recolección de Logs.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proyecto - SIEM/Fase 4 - Desarrollo del Módulo de Recolección de Logs.md",
+                "file": "Proyecto - SIEM/Sprint 2/Fase 4 - Desarrollo del Módulo de Recolección de Logs.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proyecto - SIEM/Fase 4 - Desarrollo del Módulo de Recolección de Logs.md",
+                "file": "Proyecto - SIEM/Sprint 2/Fase 4 - Desarrollo del Módulo de Recolección de Logs.md",
                 "mode": "source",
                 "source": false
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Proyecto - SIEM/Sprint 1/Fase 1 - Diseño de Arquitectura del SIEM.md",
+                "file": "Proyecto - SIEM/Sprint 2/Fase 4 - Desarrollo del Módulo de Recolección de Logs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Proyecto - SIEM/Sprint 1/Fase 1 - Diseño de Arquitectura del SIEM.md",
+                "file": "Proyecto - SIEM/Sprint 2/Fase 4 - Desarrollo del Módulo de Recolección de Logs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Proyecto - SIEM/Sprint 1/Fase 1 - Diseño de Arquitectura del SIEM.md"
+                "file": "Proyecto - SIEM/Sprint 2/Fase 4 - Desarrollo del Módulo de Recolección de Logs.md"
               }
             }
           },
@@ -249,11 +249,12 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "4e5666d3b5363d34",
+  "active": "9556ba6c0721f9af",
   "lastOpenFiles": [
-    "Proyecto - SIEM/Sprint 1/Fase 1 - Selección de tecnologías.md",
-    "Proyecto - SIEM/Sprint 1/Fase 1 - Diseño de Arquitectura del SIEM.md",
     "Proyecto - SIEM/Sprint 1/BackLog.md",
+    "Proyecto - SIEM/Sprint 2",
+    "Proyecto - SIEM/Sprint 1/Fase 1 - Diseño de Arquitectura del SIEM.md",
+    "Proyecto - SIEM/Sprint 1/Fase 1 - Selección de tecnologías.md",
     "Proyecto - SIEM/Sprint 1/Alertas.md",
     "Proyecto - SIEM/Sprint 1/Fase 1 - Definir objetivos y requisitos.md",
     "Proyecto - SIEM/Sprint 1",
@@ -261,7 +262,7 @@
     "Pasted image 20240919182624.png",
     ".md",
     "AXEN",
-    "Proyecto - SIEM/Fase 4 - Desarrollo del Módulo de Recolección de Logs.md",
+    "Proyecto - SIEM/Sprint 2/Fase 4 - Desarrollo del Módulo de Recolección de Logs.md",
     "Proyecto - SIEM/Fase 5 - Parsing y Normalización de Logs.md",
     "Certificaión BSCP/Vulnerabilidades/Cross-site scripting/DOM-based XSS.md",
     "Proyecto - SIEM",
@@ -274,7 +275,6 @@
     "Certificaión BSCP/Vulnerabilidades/Cross-site scripting",
     "ss/Certificación BSCP",
     "Certificaión BSCP/Herramientas",
-    "Certificaión BSCP/Vulnerabilidades",
     "BSCP/.md",
     "TCM/Setting Up the Domain Controller.md",
     "OWASP TOP 10/SQL Injection/SQL Injection.md",
