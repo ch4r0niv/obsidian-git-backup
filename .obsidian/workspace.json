@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4e5666d3b5363d34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Proyecto - SIEM/Sprint 1/BackLog.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "24683c15994a37d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proyecto - SIEM/Sprint 1/Fase 1 - Selección de tecnologías.md",
+                "file": "Proyecto - SIEM/Sprint 2/Fase 2 - Desarrollo del Módulo de Recolección de Logs.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 440.5,
-    "collapsed": true
+    "width": 440.5
   },
   "right": {
     "id": "367a40eda4b63952",
@@ -107,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Proyecto - SIEM/Sprint 1/Fase 1 - Selección de tecnologías.md",
+                "file": "Proyecto - SIEM/Sprint 2/Fase 2 - Desarrollo del Módulo de Recolección de Logs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Proyecto - SIEM/Sprint 1/Fase 1 - Selección de tecnologías.md",
+                "file": "Proyecto - SIEM/Sprint 2/Fase 2 - Desarrollo del Módulo de Recolección de Logs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Proyecto - SIEM/Sprint 1/Fase 1 - Selección de tecnologías.md"
+                "file": "Proyecto - SIEM/Sprint 2/Fase 2 - Desarrollo del Módulo de Recolección de Logs.md"
               }
             }
           },
@@ -180,12 +166,12 @@
   },
   "active": "24683c15994a37d8",
   "lastOpenFiles": [
-    "Proyecto - SIEM/Sprint 1/Fase 1 - Diseño de Arquitectura del SIEM.md",
-    "Proyecto - SIEM/Sprint 1/Fase 1 - Definir objetivos y requisitos.md",
-    "Proyecto - SIEM/Sprint 2/BackLog.md",
     "Proyecto - SIEM/Sprint 1/BackLog.md",
     "Proyecto - SIEM/Sprint 2/Fase 2 - Desarrollo del Módulo de Recolección de Logs.md",
     "Proyecto - SIEM/Sprint 1/Fase 1 - Selección de tecnologías.md",
+    "Proyecto - SIEM/Sprint 1/Fase 1 - Definir objetivos y requisitos.md",
+    "Proyecto - SIEM/Sprint 1/Fase 1 - Diseño de Arquitectura del SIEM.md",
+    "Proyecto - SIEM/Sprint 2/BackLog.md",
     "Proyecto - SIEM/Fase 5 - Parsing y Normalización de Logs.md",
     "Proyecto - SIEM/Sprint 2",
     "Proyecto - SIEM/Sprint 1/Alertas.md",
