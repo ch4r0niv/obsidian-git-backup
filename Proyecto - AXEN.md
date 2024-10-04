@@ -64,4 +64,13 @@
 - Los usuarios deben poder consultar su historial de conversaciones anteriores.
 - Capacidad de eliminar o archivar conversaciones completas.
 
+**Privacidad y Seguridad en Mensajes:**
+- Opción para que los mensajes se autodestruyan después de un tiempo específico (opcional).
+- Encriptación de extremo a extremo para proteger la privacidad de los mensajes.
+- Mensajes temporales (que desaparecen después de ser leídos).
+
+
+
+
+
 #### Publicaciones:
