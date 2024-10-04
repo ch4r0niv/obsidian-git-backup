@@ -4,34 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "48e39b0c8ad46468",
+        "id": "f8182ac45f2a5d1f",
         "type": "tabs",
         "children": [
           {
-            "id": "24683c15994a37d8",
+            "id": "00ee23d32ce13358",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB/Windows/Hospital ( Machine Windows ) .md",
+                "file": "AXEN/AXEN.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c1296d6417611a68",
+            "id": "b6cbddbd4cfd598b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proyecto - SIEM/Sprint 2/Tipos de Logs en Linux.md",
+                "file": "Proyecto - AXEN.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,8 +86,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTB/Windows/Hospital ( Machine Windows ) .md",
+                "file": "Proyecto - AXEN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTB/Windows/Hospital ( Machine Windows ) .md",
+                "file": "Proyecto - AXEN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTB/Windows/Hospital ( Machine Windows ) .md"
+                "file": "Proyecto - AXEN.md"
               }
             }
           },
@@ -177,8 +177,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "24683c15994a37d8",
+  "active": "b6cbddbd4cfd598b",
   "lastOpenFiles": [
+    "AXEN/AXEN.md",
+    "Proyecto - AXEN.md",
+    "HTB/Windows/Hospital ( Machine Windows ) .md",
     "Certificaión BSCP/Vulnerabilidades/Cross-site scripting/Stored XSS.md",
     "Certificaión BSCP/Vulnerabilidades/Cross-site scripting/Reflected XSS.md",
     "Certificaión BSCP/Vulnerabilidades/Cross-site scripting/Cross-site scripting.md",
@@ -195,7 +198,6 @@
     "Proyecto - SIEM/Sprint 2",
     "Proyecto - SIEM/Sprint 1/Alertas.md",
     "Proyecto - SIEM/Sprint 1",
-    "AXEN.md",
     "Pasted image 20240919182624.png",
     ".md",
     "AXEN",
@@ -216,8 +218,6 @@
     "MERN Projects/Server con Node y Express.md",
     "HTB/Linux/Builder ( Machine Linux ).md",
     "eCPPTv2/Simulación de examen eCPPTv2.md",
-    "EvilG/Evilginx.md",
-    "Malware Development/Processes & Memory.md",
     "ss/Hospital/pwned.png",
     "ss/Hospital/nt_autho.png",
     "ss/Hospital/cmd_request_3.png",

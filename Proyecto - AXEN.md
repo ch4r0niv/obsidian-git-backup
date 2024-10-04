@@ -1,0 +1,6 @@
+
+# Red Social
+
+---
+# Requisitos Funcionales
+
