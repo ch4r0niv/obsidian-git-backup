@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proyecto - SIEM/Sprint 2/Fase 2 - Desarrollo del Módulo de Recolección de Logs.md",
+                "file": "HTB/Windows/Hospital ( Machine Windows ) .md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,7 +85,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Proyecto - SIEM/Sprint 2/Tipos de Logs en Linux.md",
+                "file": "HTB/Windows/Hospital ( Machine Windows ) .md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Proyecto - SIEM/Sprint 2/Tipos de Logs en Linux.md",
+                "file": "HTB/Windows/Hospital ( Machine Windows ) .md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Proyecto - SIEM/Sprint 2/Tipos de Logs en Linux.md"
+                "file": "HTB/Windows/Hospital ( Machine Windows ) .md"
               }
             }
           },
@@ -177,14 +177,19 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "9556ba6c0721f9af",
+  "active": "24683c15994a37d8",
   "lastOpenFiles": [
+    "Certificaión BSCP/Vulnerabilidades/Cross-site scripting/Stored XSS.md",
+    "Certificaión BSCP/Vulnerabilidades/Cross-site scripting/Reflected XSS.md",
+    "Certificaión BSCP/Vulnerabilidades/Cross-site scripting/Cross-site scripting.md",
+    "Black Hat Bash/Black-Hat Bash.md",
+    "Bug Bounty/Tools/Tools collection.md",
+    "Proyecto - SIEM/Sprint 1/Fase 1 - Diseño de Arquitectura del SIEM.md",
     "Proyecto - SIEM/Sprint 2/Fase 2 - Desarrollo del Módulo de Recolección de Logs.md",
     "Proyecto - SIEM/Sprint 2/Tipos de Logs en Linux.md",
     "Proyecto - SIEM/Sprint 1/BackLog.md",
     "Proyecto - SIEM/Sprint 1/Fase 1 - Selección de tecnologías.md",
     "Proyecto - SIEM/Sprint 1/Fase 1 - Definir objetivos y requisitos.md",
-    "Proyecto - SIEM/Sprint 1/Fase 1 - Diseño de Arquitectura del SIEM.md",
     "Proyecto - SIEM/Sprint 2/BackLog.md",
     "Proyecto - SIEM/Fase 5 - Parsing y Normalización de Logs.md",
     "Proyecto - SIEM/Sprint 2",
@@ -196,10 +201,7 @@
     "AXEN",
     "Certificaión BSCP/Vulnerabilidades/Cross-site scripting/DOM-based XSS.md",
     "Proyecto - SIEM",
-    "Certificaión BSCP/Vulnerabilidades/Cross-site scripting/Cross-site scripting.md",
     "ss/Certificación BSCP/xss.png",
-    "Certificaión BSCP/Vulnerabilidades/Cross-site scripting/Reflected XSS.md",
-    "Certificaión BSCP/Vulnerabilidades/Cross-site scripting/Stored XSS.md",
     "Spaces/Home",
     "Spaces",
     "Certificaión BSCP/Vulnerabilidades/Cross-site scripting",
@@ -209,8 +211,6 @@
     "TCM/Setting Up the Domain Controller.md",
     "OWASP TOP 10/SQL Injection/SQL Injection.md",
     "OWASP TOP 10/SQL Injection/sanitización.png",
-    "Bug Bounty/Tools/Tools collection.md",
-    "Black Hat Bash/Black-Hat Bash.md",
     "OWASP TOP 10/SQL Injection/SQLI Oracle.md",
     "ANON/Project - ANON.md",
     "MERN Projects/Server con Node y Express.md",
