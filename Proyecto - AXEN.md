@@ -53,10 +53,15 @@
 - Mostrar cuándo fue la última vez que el usuario estuvo "activo".
 - Opción para ocultar el estado en línea o la última conexión.
 
+**Notificaciones y Alertas:**
+- Notificaciones emergentes de nuevos mensajes (incluso cuando la app está en segundo plano).
+- Opción de activar o desactivar las notificaciones por conversación (o en todo el sistema).
 
+**Bloqueo y Reporte de Usuarios:**
+- Opción para bloquear a usuarios específicos dentro del sistema de mensajería.
 
-#### Notificaciones:
-Notificaciones en tiempo real cuando:
-- Un usuario recibe un mensaje privado.
+**Historial de Conversaciones:**
+- Los usuarios deben poder consultar su historial de conversaciones anteriores.
+- Capacidad de eliminar o archivar conversaciones completas.
 
 #### Publicaciones:
