@@ -7,4 +7,7 @@ sticker: emoji//2699-fe0f
 - /etc/init.d 
 - /etc/mail 
 - /etc/pcmcia 
+- /etc/postfix 
+- /etc/ppp 
+- /etc/rc?.d 
 - 
