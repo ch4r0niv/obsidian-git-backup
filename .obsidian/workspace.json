@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fa66bf134d5e2e45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Administrative configuration files.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -118,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "integradora.md",
+                "file": "Administrative configuration files.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "integradora.md",
+                "file": "Administrative configuration files.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "integradora.md"
+                "file": "Administrative configuration files.md"
               }
             }
           },
@@ -189,11 +201,13 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "e2d97c66ac92394b",
+  "active": "9556ba6c0721f9af",
   "lastOpenFiles": [
+    "integradora.md",
+    "Administrative configuration files.md",
+    "Linux (Apuntes)",
     "Proyecto - AXEN.md",
     "Certificaión BSCP/Vulnerabilidades/Cross-site scripting/DOM-based XSS.md",
-    "integradora.md",
     "AXEN/AXEN.md",
     "HTB/Windows/Hospital ( Machine Windows ) .md",
     "Certificaión BSCP/Vulnerabilidades/Cross-site scripting/Stored XSS.md",
@@ -221,7 +235,6 @@
     "Spaces",
     "Certificaión BSCP/Vulnerabilidades/Cross-site scripting",
     "ss/Certificación BSCP",
-    "Certificaión BSCP/Herramientas",
     "BSCP/.md",
     "TCM/Setting Up the Domain Controller.md",
     "OWASP TOP 10/SQL Injection/SQL Injection.md",
@@ -229,7 +242,6 @@
     "OWASP TOP 10/SQL Injection/SQLI Oracle.md",
     "ANON/Project - ANON.md",
     "MERN Projects/Server con Node y Express.md",
-    "HTB/Linux/Builder ( Machine Linux ).md",
     "ss/Hospital/pwned.png",
     "ss/Hospital/nt_autho.png",
     "ss/Hospital/cmd_request_3.png",
