@@ -10,4 +10,8 @@ sticker: emoji//2699-fe0f
 - /etc/postfix 
 - /etc/ppp 
 - /etc/rc?.d 
-- 
+- /etc/securtity 
+- /etc/skel 
+- /etc/sysconfig 
+- /etc/systemd --> Contiene  archivos asociados con el *systemd*   
+- /etc/xinet.d 

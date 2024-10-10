@@ -8,42 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "00ee23d32ce13358",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AXEN/AXEN.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b6cbddbd4cfd598b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Proyecto - AXEN.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e2d97c66ac92394b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "integradora.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "fa66bf134d5e2e45",
             "type": "leaf",
             "state": {
@@ -55,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "367a40eda4b63952",
@@ -201,14 +165,14 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "9556ba6c0721f9af",
+  "active": "fa66bf134d5e2e45",
   "lastOpenFiles": [
+    "AXEN/AXEN.md",
+    "Proyecto - AXEN.md",
     "integradora.md",
     "Administrative configuration files.md",
     "Linux (Apuntes)",
-    "Proyecto - AXEN.md",
     "Certificaión BSCP/Vulnerabilidades/Cross-site scripting/DOM-based XSS.md",
-    "AXEN/AXEN.md",
     "HTB/Windows/Hospital ( Machine Windows ) .md",
     "Certificaión BSCP/Vulnerabilidades/Cross-site scripting/Stored XSS.md",
     "Certificaión BSCP/Vulnerabilidades/Cross-site scripting/Reflected XSS.md",
